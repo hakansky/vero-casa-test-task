@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vero-casa-test-task/static/css/main.e2df9813.css",
-    "main.js": "/vero-casa-test-task/static/js/main.a0173aef.js",
+    "main.js": "/vero-casa-test-task/static/js/main.c1153d78.js",
     "static/media/IntroIMG.jpeg": "/vero-casa-test-task/static/media/IntroIMG.f003ac1e9a0693639890.jpeg",
     "static/media/Roboto.ttf": "/vero-casa-test-task/static/media/Roboto.cfe3602cde0ad1c9ae0e.ttf",
     "static/media/Roboto-Medium.ttf": "/vero-casa-test-task/static/media/Roboto-Medium.681f96db2bcb69f520b5.ttf",
@@ -15,10 +15,10 @@
     "static/media/Product-1.png": "/vero-casa-test-task/static/media/Product-1.c5d04dd3654bb79ca075.png",
     "index.html": "/vero-casa-test-task/index.html",
     "main.e2df9813.css.map": "/vero-casa-test-task/static/css/main.e2df9813.css.map",
-    "main.a0173aef.js.map": "/vero-casa-test-task/static/js/main.a0173aef.js.map"
+    "main.c1153d78.js.map": "/vero-casa-test-task/static/js/main.c1153d78.js.map"
   },
   "entrypoints": [
     "static/css/main.e2df9813.css",
-    "static/js/main.a0173aef.js"
+    "static/js/main.c1153d78.js"
   ]
 }
