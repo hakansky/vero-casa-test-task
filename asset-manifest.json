@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vero-casa-test-task/static/css/main.e2df9813.css",
+    "main.js": "/vero-casa-test-task/static/js/main.a0173aef.js",
+    "static/media/IntroIMG.jpeg": "/vero-casa-test-task/static/media/IntroIMG.f003ac1e9a0693639890.jpeg",
+    "static/media/Roboto.ttf": "/vero-casa-test-task/static/media/Roboto.cfe3602cde0ad1c9ae0e.ttf",
+    "static/media/Roboto-Medium.ttf": "/vero-casa-test-task/static/media/Roboto-Medium.681f96db2bcb69f520b5.ttf",
+    "static/media/Section-2.png": "/vero-casa-test-task/static/media/Section-2.48310727c4e28a28bd72.png",
+    "static/media/Product-3.png": "/vero-casa-test-task/static/media/Product-3.7a3bb2f7097188b4d1a6.png",
+    "static/media/Inter-Bold.otf": "/vero-casa-test-task/static/media/Inter-Bold.29a77b7e0aa49b534323.otf",
+    "static/media/Montserrat.ttf": "/vero-casa-test-task/static/media/Montserrat.2a2d37bf7680d86811db.ttf",
+    "static/media/Inter.otf": "/vero-casa-test-task/static/media/Inter.a416f4674fad5f019461.otf",
+    "static/media/Inter-Light.otf": "/vero-casa-test-task/static/media/Inter-Light.ce527d9d96bea5cb1966.otf",
+    "static/media/Product-2.png": "/vero-casa-test-task/static/media/Product-2.b49ab777c6612c1cf9d3.png",
+    "static/media/Product-1.png": "/vero-casa-test-task/static/media/Product-1.c5d04dd3654bb79ca075.png",
+    "index.html": "/vero-casa-test-task/index.html",
+    "main.e2df9813.css.map": "/vero-casa-test-task/static/css/main.e2df9813.css.map",
+    "main.a0173aef.js.map": "/vero-casa-test-task/static/js/main.a0173aef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2df9813.css",
+    "static/js/main.a0173aef.js"
+  ]
+}
