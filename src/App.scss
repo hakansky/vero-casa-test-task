@@ -1,0 +1,40 @@
+.App {
+    width: 1366px;
+    font-family: Montserrat, sans-serif;
+
+    @font-face {
+        font-family: Montserrat;
+        font-style: normal;
+        src: url("./assets/fonts/Montserrat.ttf");
+    }
+
+    @font-face {
+        font-family: Roboto;
+        font-style: normal;
+        src: url("./assets/fonts/Roboto.ttf");
+    }
+
+    @font-face {
+        font-family: Inter;
+        font-style: normal;
+        src: url("./assets/fonts/Inter.otf");
+    }
+
+    @font-face {
+        font-family: Inter-light;
+        font-style: normal;
+        src: url("./assets/fonts/Inter-Light.otf");
+    }
+
+    @font-face {
+        font-family: Inter-bold;
+        font-style: normal;
+        src: url("./assets/fonts/Inter-Bold.otf");
+    }
+
+    @font-face {
+        font-family: Roboto-medium;
+        font-style: normal;
+        src: url("./assets/fonts/Roboto-Medium.ttf");
+    }
+}

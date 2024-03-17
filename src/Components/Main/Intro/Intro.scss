@@ -1,0 +1,89 @@
+.Intro {
+  display: flex;
+  padding: 0 198px;
+  justify-content: space-between;
+  font-family: Inter, sans-serif;
+  color: white;
+  //background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../../assets/img/IntroIMG.jpeg");
+  background-size: 100%;
+  background-position-y: 78%;
+  height: 489px;
+  position: relative;
+
+  .Lines-scroll {
+    position: absolute;
+    top: 469px;
+    display: flex;
+    left: 650px;
+
+    img {
+      width: 15px;
+      margin: 0 5px;
+    }
+  }
+
+  #arrow-left {
+    position: absolute;
+    left: 64px;
+    top: 223px;
+    width: 17px;
+    height: 32px;
+    cursor: pointer;
+  }
+
+  #arrow-right {
+    position: absolute;
+    top: 223px;
+    right: 38px;
+    width: 17px;
+    height: 32px;
+    cursor: pointer;
+  }
+
+  .Text {
+    padding-top: 100px;
+    height: 288px;
+    width: 470px;
+
+    h1, h2 {
+      font-size: 64px;
+      margin: 0;
+    }
+
+    h1 {
+      font-family: Inter-bold, sans-serif;
+    }
+
+    h2 {
+      font-family: Inter-light, sans-serif;
+      font-weight: 300;
+      height: 47px;
+    }
+  }
+
+  .Sales {
+    padding-top: 207px;
+    text-align: center;
+
+    h2 {
+      box-sizing: border-box;
+      font-size: 40px;
+      line-height: 29px;
+      font-weight: 300;
+      font-family: Inter-light, sans-serif;
+      background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3));
+      padding: 15px 34px;
+      width: 370px;
+      margin: 0 0 20px 0;
+      height: 59px;
+    }
+
+    p {
+      font-size: 20px;
+      font-weight: 400;
+      font-family: Inter-light, sans-serif;
+    }
+  }
+
+
+}

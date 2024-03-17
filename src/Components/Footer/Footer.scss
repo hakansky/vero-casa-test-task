@@ -1,0 +1,61 @@
+.Footer {
+  padding-top: 46px;
+  border-top: 1px solid rgba(204, 204, 204, 1);
+  font-family: "Roboto", serif;
+  line-height: 24px;
+  box-sizing: border-box;
+
+  .upper-footer  {
+    display: flex;
+    padding: 0 98px;
+
+    div {
+      width: 170px;
+    }
+
+    p {
+      color: rgba(98, 98, 98, 1);
+      cursor: pointer;
+    }
+
+    h4 {
+      color: rgba(52, 52, 52, 1);
+      font-size: 16px;
+      margin: 0 0 30px 0;
+    }
+
+    .personal-cabinet {
+      margin: 0 130px;
+    }
+
+    .contacts {
+      margin-right: 230px;
+    }
+
+    .about-company {
+      margin-bottom: 52px;
+    }
+  }
+
+  .bottom-footer {
+    padding: 0 98px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(52, 52, 52, 1);
+    color: white;
+    height: 93px;
+    align-items: center;
+    font-size: 12px;
+
+    nav {
+      display: flex;
+      font-size: 16px;
+      width: 416px;
+      justify-content: space-between;
+
+      p {
+        cursor: pointer;
+      }
+    }
+  }
+}

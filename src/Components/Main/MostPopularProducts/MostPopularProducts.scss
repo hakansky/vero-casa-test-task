@@ -1,0 +1,105 @@
+.MostPopularProducts {
+  padding: 0 98px;
+  width: 1170px;
+  margin-bottom: 80px;
+
+  .Title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 80px 0 31px 0;
+
+    h3 {
+      font-size: 26px;
+      margin: 0;
+      color: rgba(52, 52, 52, 1);
+    }
+
+    .Slider {
+      width: 151px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      p {
+        font-size: 16px;
+        color: rgba(98, 98, 98, 1);
+      }
+
+      img {
+        width: 25px;
+        height: 8px;
+      }
+    }
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+
+    .Product-1,
+    .Product-2,
+    .Product-3 {
+      position: relative;
+    }
+
+    h4 {
+      font-size: 20px;
+      font-family: Roboto, serif;
+      margin: 15px 0 10px 0;
+    }
+
+    p {
+      font-size: 16px;
+      font-family: Roboto, serif;
+      color: rgba(98, 98, 98, 1);
+      margin: 10px 0 0 0;
+    }
+
+    h3 {
+      color: rgba(74, 170, 78, 1);
+      font-size: 20px;
+      font-family: Roboto-medium, sans-serif;
+      margin: 17px 0 0 0;
+    }
+
+    .ProductsIMG {
+      position: relative;
+    }
+
+    #fav-icon-1 {
+      position: absolute;
+      padding: 10px;
+      background-color: white;
+      border-radius: 50px;
+      top: 10px;
+      right: 10px;
+      cursor: pointer;
+    }
+    #fav-icon-2 {
+      position: absolute;
+      padding: 10px;
+      background-color: white;
+      border-radius: 50px;
+      top: 10px;
+      right: 10px;
+      cursor: pointer;
+    }
+    #fav-icon-3 {
+      position: absolute;
+      padding: 10px;
+      background-color: white;
+      border-radius: 50px;
+      top: 10px;
+      right: 10px;
+      cursor: pointer;
+    }
+
+    #fav-icon-1.active,
+    #fav-icon-2.active,
+    #fav-icon-3.active {
+      opacity: 0.5;
+    }
+  }
+}

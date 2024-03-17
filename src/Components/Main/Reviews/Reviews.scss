@@ -1,0 +1,94 @@
+.Reviews {
+  padding: 0 98px;
+  width: 1170px;
+  margin-bottom: 157px;
+
+  .Title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 30px 0;
+
+    h2 {
+      font-size: 26px;
+      margin: 0;
+      color: rgba(52, 52, 52, 1);
+    }
+
+    .Slider {
+      width: 151px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      p {
+        font-size: 16px;
+        color: rgba(98, 98, 98, 1);
+      }
+
+      img {
+        width: 25px;
+        height: 8px;
+      }
+    }
+  }
+
+  .Reviews-cards {
+    display: flex;
+    justify-content: space-between;
+
+    .Review {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      width: 270px;
+      height: 250px;
+      border: 1px solid black;
+      padding: 30px 40px;
+      border-radius: 10px;
+      box-sizing: border-box;
+      font-family: "Roboto", serif;
+
+      .avatar-and-rating {
+        display: flex;
+        align-items: center;
+        width: 196px;
+        justify-content: space-between;
+        margin-bottom: 20px;
+
+        img {
+          width: 50px;
+          height: 50px;
+        }
+
+        .rating-and-name {
+          display: flex;
+          flex-direction: column;
+
+          .rating {
+            display: flex;
+            font-size: 10px;
+            width: 58px;
+            justify-content: space-between;
+
+            p {
+              margin: 0;
+            }
+          }
+
+          #name {
+            margin: 0;
+            line-height: 30px;
+          }
+        }
+      }
+
+      #review-text {
+        color: rgba(98, 98, 98, 1);
+        font-size: 16px;
+        line-height: 24px;
+        margin: 0;
+      }
+    }
+  }
+}
